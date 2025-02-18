@@ -1,5 +1,4 @@
 function  willSuccess( marks ) {
-
     if(Array.isArray(marks)){
         let pass = [];
         let fail = [];
@@ -24,3 +23,4 @@ function  willSuccess( marks ) {
     }
     
 }
+
